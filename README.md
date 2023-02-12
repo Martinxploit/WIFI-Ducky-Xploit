@@ -10,3 +10,6 @@ Open WIFIDuckyXploit.txt
 Copy And Paste The Script
 
 Replace Your Webhook URL
+
+# Contact
+Instagram : https://www.instagram.com/bunty0020
